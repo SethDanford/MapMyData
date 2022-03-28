@@ -36,6 +36,20 @@
   font-size: 50%;
 }
 
+.button {
+  color: red;
+  background-color: black;
+  border: black;
+  font-family: sans-serif;
+  font-size: 100%;
+}
+
+.blank-button {
+  color: black;
+  background-color: black;
+  border: black;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
